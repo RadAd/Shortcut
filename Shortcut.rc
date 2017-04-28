@@ -42,7 +42,7 @@ BEGIN
         BLOCK "0c0904b0"
         BEGIN
             VALUE "CompanyName", "RadSoft"
-            VALUE "FileDescription", "Shortcut"
+            VALUE "FileDescription", "Edit shortcut properties from the command line"
             VALUE "FileVersion", "1, 0, 0, 0"
             VALUE "InternalName", "Reg"
             VALUE "LegalCopyright", "Copyright © 2000"
